@@ -315,6 +315,18 @@ a:hover img {
   .grid-col-four {
     grid-template-columns: 1fr;
   }
+  .h1{
+    font-size: 2rem;
+  }
+  .main{
+    font-size: 3.5rem;
+  }
+  input{
+    width: 18rem;
+  }
+  input:focus{
+    width: 22rem;
+  }
 }
 
 .lds-roller {
