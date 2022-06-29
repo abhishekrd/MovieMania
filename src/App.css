@@ -323,11 +323,11 @@ a:hover img {
   .main{
     font-size: 3.5rem;
   }
-  input{
-    width: 18rem;
+  input[type="text"]{
+    width: 22rem;
   }
   input:focus{
-    width: 20rem;
+    width: 24rem;
   }
 }
 
